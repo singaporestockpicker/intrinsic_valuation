@@ -1,0 +1,18 @@
+TODO
+Formalize 3 separate ways to value companies
+Method 1. Use ROE to determine how much a company earns and retains. Iterate on expanded capital over the years. DCF at the end
+Method 2. Assume revenue can grow independently of equity. Use margins from industry and firm history to estimate. DCF at the end
+Method 3. For loss making companies or -ve equity values, value the whole company on EBIT to determine EV. Subtract away liabilities to determine NPV of equity. 
+
+Steps
+Set up gitignore to get not upload any data
+Change github username
+Handle importing data from morningstar format
+Handle importing data from tikr format
+Implement calculator for method 1
+Implement calculator for method 2
+Implement calculator for method 3
+Implement monte carlo sampling
+Implement bell curve weighting
+
+DONE
