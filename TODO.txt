@@ -1,4 +1,9 @@
 TODO
+
+3. Calculate the EPS from this count
+4. Calculate dynamic PE from this EPS
+5. 
+
 Formalize 3 separate ways to value companies
 Method 1. Use ROE to determine how much a company earns and retains. Iterate on expanded capital over the years. DCF at the end
 Method 2. Assume revenue can grow independently of equity. Use margins from industry and firm history to estimate. DCF at the end
@@ -16,3 +21,5 @@ Implement monte carlo sampling
 Implement bell curve weighting
 
 DONE
+1. Extend the yfinance package method to get the time series data for getting stock counts 
+2. Build the dataframe on top of yfinance package to build the pandas dataframe information
